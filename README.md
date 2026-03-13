@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aditya Kumar<br> I’m a Computer Science & Engineering student dedicated to building intelligent systems that solve real-world problems. My work sits at the intersection of Artificial Intelligence, Cyber Security, and IoT.<br><br>🚀 Featured Focus<br>🛡️ Anomaly Detection: Developing systems for streaming data forensics (inspired by my work with DRDO).<br>🌊 Smart Infrastructure: Engineered an IoT-based Smart Drainage Monitoring System to address urban flooding in Guwahati.<br>👁️ Computer Vision: Building advanced CCTV analytics and deepfake detection models.
+👋 Hi, I'm Aditya Kumar<br> I’m a Computer Science & Engineering student dedicated to building intelligent systems that solve real-world problems. My work sits at the intersection of Artificial Intelligence, Cyber Security, and IoT.<br><br>🚀 Featured Focus<br>🛡️ Anomaly Detection: Developing systems for streaming data forensics.<br>👁️ Computer Vision: Built an advance detection system using YOLOv8n for E-Waste detection.
 
 
 ## 🌐 Socials:
